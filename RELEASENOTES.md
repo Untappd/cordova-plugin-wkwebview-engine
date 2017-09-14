@@ -21,6 +21,10 @@
 
 # Release Notes
 
+### 1.1.5-dev (Sep 14, 2017)
+* Adding this Fix bug where WKWebView doesn't respect the KeyboardDisplayRequiresUserAction setting - https://github.com/ionic-team/cordova-plugin-wkwebview-engine/pull/171
+
+
 ### 1.1.3 (Apr 27, 2017)
 * [CB-12696](https://issues.apache.org/jira/browse/CB-12696) (iOS) Fixing some Xcode warnings
 * [CB-12685](https://issues.apache.org/jira/browse/CB-12685) added `package.json` to tests folder
